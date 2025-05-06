@@ -1,24 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jeevan Raj</h1>
-
-<div align="center">
-<img src="https://github.com/jeevan499/Image/blob/jeevanrajraj1998%40gmail.com/Hackathon%20winner%20.jpg" alt="https://github.com/jeevan499/Image/blob/jeevanrajraj1998%40gmail.com/Hackathon%20winner%20.jpg" width="500"/>
-</div>
+<h1 align="center">Hi 👋, I'm Dayanand</h1>
 
 
+I’m a Data Enthusiast from Mysore, currently pursuing a **Data Analytics course** at **Imarticus Learning** in Koramangala, Bangalore. I have a background in **Information Science Engineering** from **The National Institute of Engineering**, Mysore, and I am passionate about applying data-driven solutions to solve real-world problems.
 
-<h3 align="center">Data Science Enthusiast | Unlocking Insights from Data | Based in India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan499&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan499" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan499" alt="jeevan499" /></a> </p>
-
-- 🔭 I’m currently working on *Posture Correction Analysis*
-
-- 🌱 I’m currently learning *Generative AI*
+- 📝 I regularly write articles on "https://medium.com/@dayasgowda29"
 
 - 👯 I’m looking to collaborate on *Data Science Project*
 
-- 🤝 I’m looking for help with *Data Science*
+- 📫 How to reach me *dayasgowda29@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+<a href="https://www.linkedin.com/in/dayanand-gowda/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1475989557.1746553438" alt="opencv" width="40" height="40"/></a> 
+  <a href="https://medium.com/@dayasgowda29" target="_blank" rel="noreferrer"> <img src="https://slabstatic.com/prod/uploads/7cd8fe75/posts/images/ZYioF99U6Y4PLiKXk0-NyhS9.png" alt="oracle" width="40" height="40"/> </a>
 
 - 💬 Ask me about *Data Science*
 
